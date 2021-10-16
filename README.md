@@ -3,4 +3,4 @@
 Login System demo using local storage
 
 # Try it!
-https://bezel-test-site.netlify.app/
+https://login-system-demo.netlify.app/
